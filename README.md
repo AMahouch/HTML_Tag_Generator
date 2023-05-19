@@ -7,6 +7,6 @@ The ```makeTag``` function serves as the foundation of this approach. By passing
 
 Using the ```makeTag``` function, specific tag functions (```tableTag```, ```headerTag```, ```dataTag```, and ```rowTag```) are created. These functions encapsulate the logic for generating corresponding HTML tags with provided content.
 
-The final result is the concatenation of the header and data rows enclosed with <table> tags. This demonstrates the power of higher-order functions and currying in generating HTML structures dynamically and with ease.
+The final result is the concatenation of the header and data rows enclosed with ```<table>``` tags. This demonstrates the power of higher-order functions and currying in generating HTML structures dynamically and with ease.
 
 
